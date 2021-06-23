@@ -11,7 +11,7 @@ Gets Message Center and Post to Teams Channel
 
 # Import Power Automate Flow 
 [Download the package](https://github.com/M365-DenzilFernandes/Teams-MessageCenter/raw/main/MicrosoftTeams-MessageCenter(v1.0).zip) and update the queries
-* You only need to update the tenant id, client id and client secret where applicable.
+* You only need to update the connection uri with the teams incoming webhook and update the tenant id, client id and client secret where applicable.
 
 
 
