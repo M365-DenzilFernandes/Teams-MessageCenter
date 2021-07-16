@@ -13,7 +13,7 @@
 
 <img src="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-4.png"  style="max-width:100%;">
 
-# OPTION 1---Teams-MessageCenter-To-Teams-Channel
+# Option 1---Teams-MessageCenter-To-Teams-Channel
 Gets Message Center and Post to Teams Channel
 
 ## 1. Create Teams Incoming Webhook
@@ -24,7 +24,7 @@ Click [here](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-a
 [Download the package](https://github.com/M365-DenzilFernandes/Teams-MessageCenter/raw/main/MicrosoftTeams-MessageCenter(v1.0).zip) and update the queries
 * You only need to update the connection uri with the teams incoming webhook and update the tenant id, client id and client secret where applicable.
 
-# OPTION 2---Teams-MessageCenter-To-Text File
+# Option 2---Teams-MessageCenter-To-Text File
 Gets Message Center and Post to Text File
 
 ## 1. Import Power Automate Flow 2 - Mesage Center to Text File
