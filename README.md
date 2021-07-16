@@ -12,19 +12,19 @@ Note you will need the AAD Tenant ID, Application ID and Secret to be used in ei
 
 # -----OPTION 1----------------------
 
-# Create Teams Incoming Webhook
+## Create Teams Incoming Webhook
 You will need the url for 
 
-# Import Power Automate Flow 1 - Message Center to Teams Channel
+## Import Power Automate Flow 1 - Message Center to Teams Channel
 [Download the package](https://github.com/M365-DenzilFernandes/Teams-MessageCenter/raw/main/MicrosoftTeams-MessageCenter(v1.0).zip) and update the queries
 * You only need to update the connection uri with the teams incoming webhook and update the tenant id, client id and client secret where applicable.
 
 # -----OPTION 2----------------------
 
-# Teams-MessageCenter-To-Teams-Channel
+## Teams-MessageCenter-To-Teams-Channel
 Gets Message Center and Post to Teams Channel
 
-# Import Power Automate Flow 2 - Mesage Center to Text File
+## Import Power Automate Flow 2 - Mesage Center to Text File
 [Download the package](https://github.com/M365-DenzilFernandes/Teams-MessageCenter/raw/main/MicrosoftTeams-MessageCenter(v1.0)-To-TextFile.zip) and update the queries
 * You only need to update the connection uri with the teams incoming webhook and update the tenant id, client id and client secret where applicable.
 
