@@ -2,9 +2,11 @@
 * Get Message Center and Post to Teams Channel
 * Get Message Center and Post to Text File
 
-# -------------------------------------------
+# Prerequisites
+* Azure AD App Registration
+* Power Automate Premium Connectors
 
-# Azure AD App Registration
+## Azure AD App Registration
 * Create an app registration and grant it the following API Permissions.
 * Add an Application Permission to Office 365 Management API's and Select ServiceHealth.Read - Admin Consent Required.
 <img src="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-4.png"  style="max-width:100%;">
