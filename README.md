@@ -1,6 +1,6 @@
 # Teams-MessageCenter
-Get Message Center and Post to Teams Channel
-Get Message Center and Post to Text File
+* Get Message Center and Post to Teams Channel
+* Get Message Center and Post to Text File
 
 # -------------------------------------------
 
