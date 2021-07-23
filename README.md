@@ -33,4 +33,5 @@ Gets Message Center and Post to Text File
 
 ### 1. Import Power Automate Flow 2 - Mesage Center to Text File
 * [Download the package](https://github.com/M365-DenzilFernandes/Teams-MessageCenter/raw/main/MicrosoftTeams-MessageCenter(v1.0)-To-TextFile.zip) and Import into Power Automate.
-* You only need to update the connection uri with the teams incoming webhook and update the tenant id, client id and client secret where applicable.
+* Update the tenant id, client id and client secret where applicable. The begining part of the flow
+* Also Update the location where you want to save this file.
