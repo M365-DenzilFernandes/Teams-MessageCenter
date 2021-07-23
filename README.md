@@ -2,6 +2,10 @@
 * Get Message Center and Post to Teams Channel
 * Get Message Center and Post to Text File
 
+###### 📺 Watch Hugo Bernier and myself provide a demonstration how to combine various tools to provide a more engaging meeting experience.
+ <a href="https://www.youtube.com/watch?v=j0-Yh0fH8vM" target="_blank"><img src="https://i9.ytimg.com/vi/j0-Yh0fH8vM/mqdefault.jpg?sqp=CMjN7IcG&rs=AOn4CLC3892xNE6HSynplqvnn-tjguE1vg" 
+alt="Teams Like a Boss" border="10" /></a>
+
 ## Prerequisites
 * Azure AD App Registration
 * Power Automate Premium Connectors
